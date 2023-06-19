@@ -20,31 +20,6 @@ Para executar o projeto, basta seguir os seguintes passos:
 
 
 
-## :computer: Imagens da Aplicação
-
-
-
-Lista de Jogos
-
-![image-20230619195443331](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195443331.png)
-
-
-
-Adicionar Jogo
-
-![image-20230619195509708](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195509708.png)
-
-
-
-Listagem de Categorias
-
-![image-20230619195545728](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195545728.png)
-
-Cadastro de Categorias
-
-![image-20230619195603841](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195603841.png)
-
-
 
 ## ✒️ Autores
 
