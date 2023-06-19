@@ -1,27 +1,56 @@
-# Gamesdear
+# GamesDear - Cadastro de Jogos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+GamesDear é um sistema para cadastro de Categorias e Jogos, contém o Create, read, update e delete.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## 🛠️ Tecnologias utilizadas:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Angular
 
-## Build
+  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🟢 **Executar o projeto:**
 
-## Running unit tests
+Para executar o projeto, basta seguir os seguintes passos:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Abra o terminal e navegue até a pasta raiz do projeto.
+2. Digite o comando `**ng serve** e aguarde a compilação do projeto.
+3. Acesse o endereço **`http://localhost:4200`** em um navegador para acessar a aplicação.
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## :computer: Imagens da Aplicação
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Lista de Jogos
+
+![image-20230619195443331](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195443331.png)
+
+
+
+Adicionar Jogo
+
+![image-20230619195509708](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195509708.png)
+
+
+
+Listagem de Categorias
+
+![image-20230619195545728](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195545728.png)
+
+Cadastro de Categorias
+
+![image-20230619195603841](C:\Users\juare\AppData\Roaming\Typora\typora-user-images\image-20230619195603841.png)
+
+
+
+## ✒️ Autores
+
+Aplicação desenvolvida por:
+
+* Juarez Souza
+
+
+

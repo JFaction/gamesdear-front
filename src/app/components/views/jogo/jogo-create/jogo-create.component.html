@@ -1,0 +1,29 @@
+<form action="">
+  <h2>Adicionar novo jogo</h2>
+
+  <mat-form-field class="form">
+    <mat-label class="mat-form-field-label">Nome</mat-label>
+    <input matInput [(ngModel)]="jogo.nome" type="text" name="nome" />
+  </mat-form-field>
+
+  <mat-form-field class="form">
+    <mat-label>Descrição</mat-label>
+    <input matInput [(ngModel)]="jogo.descricao" type="text" name="descricao" />
+  </mat-form-field>
+
+  <mat-form-field class="form">
+    <mat-label>Opção</mat-label>
+    <select matNativeControl [(ngModel)]="opcaoSelecionada" name="opcao">
+      <option *ngFor="let opcao of opcoes" [value]="opcao.id">{{ opcao.nome }}</option>
+    </select>
+  </mat-form-field>
+
+  <div class="buttons">
+    <button (click)="create()" mat-stroked-button class="btnCriar">
+      Adicionar
+    </button>
+    <button (click)="cancel()" mat-stroked-button class="btnCancelar">
+      Cancelar
+    </button>
+  </div>
+</form>
